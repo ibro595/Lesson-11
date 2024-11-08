@@ -1,0 +1,39 @@
+/* EXTERNAL CSS */
+body{
+    background: url("https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+}
+
+p{
+    color: #FF0000;
+    font-size: 20px;
+    padding-top: 25px;
+    padding-right: 15px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    margin:100px 150px 100px 80px;
+}
+
+h1{
+    color: green;
+    margin: 10px;
+    font-size: 40px;
+    height: 200px;
+    width: 50%;
+    background-color:aliceblue
+}
+
+h2{
+    margin: 25px 50px 75px;
+    width: 500px;
+    border: 15px solid black;
+    padding: 50px;
+}
+
+div{
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+}
+
